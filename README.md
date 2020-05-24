@@ -1,2 +1,2 @@
 # CodeEdge-Static
-Versão estática de site empresarial feita com LESS
+Versão estática do meu site de venda software empresarial feita com LESS
