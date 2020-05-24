@@ -1,0 +1,31 @@
+
+	.Space-Padding{
+		margin-top:100px !important;
+	}
+
+	.back-color{
+		background-color:rgba(0,0,0,0.1);
+		padding-bottom: 10px;
+		padding-left: 7px;
+		padding-right: 7px;
+		
+	}
+
+	.newbutton{
+		margin-top: 20px;
+		position: absolute;
+		top: 80px;
+		font-size: 15px;
+		right: 60px;
+		background-color: #DB3256 !important;
+	}
+
+
+   .sellbutton{
+		margin-top: 20px;
+		position: absolute;
+		top: 80px;
+		font-size: 15px;
+		left: 60px;
+		background-color: #DB3256 !important;
+	}
